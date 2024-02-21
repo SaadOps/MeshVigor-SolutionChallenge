@@ -16,10 +16,10 @@ require_once 'vendor/autoload.php';
 $google_client = new Google_Client();
 
 //Set the OAuth 2.0 Client ID
-$google_client->setClientId('470683448537-cfm97rgeivk36c6n354bsmj0sedtppol.apps.googleusercontent.com');
+$google_client->setClientId('apiKey');
 
 //Set the OAuth 2.0 Client Secret key
-$google_client->setClientSecret('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');
+$google_client->setClientSecret('token');
 
 //Set the OAuth 2.0 Redirect URI
 $google_client->setRedirectUri('http://localhost/MeshVigor/login_form.php');

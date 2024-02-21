@@ -33,5 +33,7 @@ This website is web-based registration software that helps you to donate wastes 
 - JavaScript
 - PHP
 - My SQL
+- OAuth 2.0
+- Instamojo
       
  <hr>

@@ -12,8 +12,8 @@ $Category = $_POST['category'];
 $Amount = $_POST['amount'];
 
 
-$key = "test_636228b763977155a6f781a52a9";
-$token = "test_f9e33b774a75813ae5b76ba8b01";
+$key = "apikey";
+$token = "token";
 $mojoURL = "test.instamojo.com";    
 
 
